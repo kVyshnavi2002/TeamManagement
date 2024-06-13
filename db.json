@@ -2,10 +2,15 @@
   "UserHome" : [
     {
     "first_name": "Vyshnavi",
+      
     "last_name": "Kalavakolanu",
+      
     "role": "GET",
+      
     "sapid": "123456",
+      
     "phone_number": "+1234567890",
+      
     "address": "123 Main Street, City, Country"
     }
   ]
